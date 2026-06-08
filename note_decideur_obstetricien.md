@@ -24,7 +24,7 @@ Recommandation : se servir de l'outil comme d'une check-list qui met en avant, p
 
 ## Distingue-t-il bien le Suspect du Pathologique
 
-Oui, et plutôt mieux qu'attendu : très peu de cas suspects sont confondus avec un cas pathologique. La zone réellement délicate est la frontière entre Normal et Suspect, que l'outil franchit parfois dans les deux sens. C'est une frontière qui est de toute façon floue, y compris entre praticiens.
+Oui, et plutôt mieux qu'attendu : très peu de cas suspects sont confondus avec un cas pathologique. La zone réellement délicate est la frontière entre Normal et Suspect, que l'outil franchit parfois dans les deux sens. C'est une frontière qui est de toute façon floue.
 
 Recommandation : accorder une bonne confiance à l'outil pour confirmer ou écarter un cas franchement normal ou franchement pathologique, et garder la main sur les cas intermédiaires, où il sert surtout à attirer l'attention.
 
